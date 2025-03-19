@@ -20,7 +20,7 @@ Combine no-code and programming to create advanced automation tools.
 Enable businesses to save time, reduce costs, and boost efficiency.
 I am to release at least one AI automation agent per month, continuously improving my skills while building practical tools for real-world use.
 
-What I'm Currently Learning
+What I'm Currently Learning!
 I'm focusing on three key areas:
 
 Programming and Development
